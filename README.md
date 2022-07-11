@@ -20,7 +20,7 @@ tables as you type.
    
 ```sh
 $ cd ~/.vim
-$ git submodule add git@github.com:dhruvasagar/vim-table-mode.git bundle/table-mode
+$ git submodule add https://github.com/dhruvasagar/vim-table-mode.git bundle/table-mode
 ```
    Copy all files under `autoload/`, `plugin/`, and `doc/` to respective
    `~/.vim/autoload/`, `~/.vim/plugin` and `~/.vim/doc` under UNIX, or
